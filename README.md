@@ -2,7 +2,8 @@
 
 A simple website to introduce myself! Will keep updating it!
 
-- Link: 
+## Link: 
 
-***https://dalun-z.github.io/my_cv/***
-***https://dalun-z.github.io/my_cv/portfolio.html***
+-  [HomePage] (https://dalun-z.github.io/my_cv/)
+
+-  [Porfolio] (https://dalun-z.github.io/my_cv/portfolio.html)
