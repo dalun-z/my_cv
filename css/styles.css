@@ -1,13 +1,11 @@
 /* Tag selector */
 h1 {
-    font-family: 'Mynerve', cursive;
     text-align: center;
     padding-top: 10%;
     color: #7DB9B6;
     font-weight: bold;
 }
 h2 {
-    font-family: 'Mynerve', cursive;
     color: #A7727D;
     padding-top: 3%;
     padding-left: 3%;
@@ -81,9 +79,14 @@ h3 {
     background-color: #F5E9CF;
 }
 #lnk {
+    font-family: 'Mynerve', cursive;
     color:#AA5656;
     font-weight: bold;
+    background-color: #F5E9CF;
 }
 #lnk:hover {
     color: #7DB9B6;
+}
+#slogan {
+    font-family: 'Mynerve', cursive;
 }
